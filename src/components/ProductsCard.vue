@@ -102,8 +102,8 @@ export default {
         </div>
 
         <button type="button" @click.stop="$emit('add', product)">
-            <Icon icon="typcn:shopping-cart" width="24" height="24" color="red" />
-            加入購物車
+            <Icon icon="typcn:shopping-cart" class="me-5" width="24" height="24" color="red" />
+            <span class="m-0">加入購物車</span>
 
         </button>
 
