@@ -16,7 +16,7 @@ export default {
     <header class="navbar" style="background-color: black;">
       <div class="navbar-inner">
         <strong class="nav-brand">
-          <span><img src="/public//images/Barber_logo.png" alt="" style="width: 2em;"></span>
+          <span><img src="/images/Barber_logo.png" alt="" style="width: 2em;"></span>
           <span style="color: #D4AF37;">K.KAI HAIR ACADEMIC LONDON</span>
         </strong>
         <nav class="nav-links">

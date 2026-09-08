@@ -1,0 +1,33 @@
+29. 建議初學者安全設定
+在專案根目錄建立：
+
+opencode.json
+
+例如：
+
+{
+  "$schema": "https://opencode.ai/config.json",
+
+  "permission": {
+    "read": "allow",
+    "edit": "ask",
+    "bash": "ask",
+    "webfetch": "allow"
+  }
+}
+
+意思：
+
+讀檔
+→ 可以
+
+修改檔案
+→ 要問
+
+Terminal
+→ 要問
+
+讀網頁
+→ 可以
+
+這很適合剛開始學 OpenCode。
