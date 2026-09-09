@@ -3,65 +3,57 @@ import {
     createWebHistory 
 } from "vue-router"
 
-import ProductsView from "../views/ProductsView.vue"
-import AboutView from "../views/AboutView.vue"
-import ProductDetailView from "../views/ProductDetailView.vue"
-import CategoryProductView from"../views/CategoryProductView.vue"
-import CartView from "../views/CartView.vue"
-import ReportsView from "../views/ReportsView.vue"
-import ReportsTimelyView from "../views/ReportsTimelyView.vue"
-import Testimonial from "../views/Testimonial.vue"
 
 const routes = [
     {
         path: "/",
         name: "home",
-        component: () =>import("../views/HomeView.vue")
+        component: () =>import("@/views/Homeview.vue")
         // 這種寫法可以到該路由時才import，大專案比較不會進首頁就lag
     },
     {
         path: "/products",
         name: "products",
-        component: ProductsView
+        component: () => import("@/views/ProductsView.vue")
     },
     {
         path: "/about",
         name: "about",
-        component: AboutView
+        component: () => import("@/views/AboutView.vue")
     },
     {
         path: "/products/:id",
         name: "productdetail",
-        component: ProductDetailView
+        component: () => import("@/views/ProductDetailView.vue")
     },
     {
         path: "/products/category/:category",
         name: "CategoryProductView",
-        component: CategoryProductView
+        component: () => import("@/views/CategoryProductView.vue")
     },
 
     {
         path: "/testimonial",
         name: "testimonial",
-        component: Testimonial
+        component: () => import("@/views/Testimonial.vue")
     },
 
     {
         path: "/cart",
         name: "cart",
-        component: CartView
+        component: () => import("@/views/CartView.vue")
     },
 
     {
         path: "/reports",
         name: "reports",
-        component: ReportsView
+        component: () => import("@/views/ReportsView.vue")
     },    
     
     {
         path: "/ReportsTime",
         name: "report-time",
-        component: ReportsTimelyView
+        component: () => import("@/views/ReportsTimelyView.vue")
     },  
 
     {

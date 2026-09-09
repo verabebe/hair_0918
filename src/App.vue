@@ -51,7 +51,7 @@ export default {
           
           </RouterLink>
 
-          <RouterLink :to="{}">
+          <RouterLink :to="{ name: 'cart' }">
             SHOPPING CART
             <span v-if="cartStore.totalQuantity">
               ({{ cartStore.totalQuantity }})
