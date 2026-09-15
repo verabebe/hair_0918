@@ -31,7 +31,7 @@ export default {
             </RouterLink>
             <div class="dropdown-menu">
               <RouterLink :to="{ name: 'CategoryProductView', params: { category: '服務' } }" class="dropdown-item">
-                服務
+                服務價目
               </RouterLink>
               <RouterLink :to="{ name: 'CategoryProductView', params: { category: '商品' } }" class="dropdown-item">
                 商品

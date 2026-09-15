@@ -1,10 +1,13 @@
 <template>
     <main class="page">
         <section class="hero">
-            <h1>關於我</h1>
+            <h1>K.KAI HAIR GALLERY</h1>
             <P>
-                關於我的一些資訊
+                
             </P>
+            <p>
+                
+            </p>
         </section>
     </main>
-</template>
+</template> 

@@ -89,7 +89,7 @@ export default {
         <section class="hero-section">
             <div class="section-content">
                 <div class="hero-details">
-                    <h2 class="title">Hair Salon</h2>
+                    <h2 class="title">K.Kai Hair Salon</h2>
                     <h3 class="subtitle">Make your day great with our special hair treatment!</h3>
                     <p class="description">
                         Welcome to K.Kai Hair Academic London, where a fresh haircut gives you a big
@@ -259,15 +259,15 @@ export default {
                         <ul>
                             <li>
                                 <Icon icon="material-symbols:location-on" />
-                                <span>Taichung, Taiwan</span>
+                                <span>No.231 Yizhong Street, North District, Taichung, Taiwan</span>
                             </li>
                             <li>
                                 <Icon icon="material-symbols:call" />
-                                <span>+886 4-1234-5678</span>
+                                <span>+886 4-2225-0553</span>
                             </li>
                             <li>
                                 <Icon icon="material-symbols:mail" />
-                                <span>info@k-kai-hair.com</span>
+                                <span>info@kksalon.com</span>
                             </li>
                             <li>
                                 <Icon icon="material-symbols:schedule" />

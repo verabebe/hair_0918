@@ -58,7 +58,7 @@ export const seedReviews = [
         avatar: 'https://i.pravatar.cc/150?img=9',
         rating: 5,
         title: '染出來的顏色超美',
-        content: '給設計師看 pinterest 的圖，完全染出我要的顏色！而且到現在過了兩週還是很均勻，不愧是專業的。',
+        content: '給設計師看 pinterest 的圖，完全染出我要的顏色！而且到現在過了三週還是很均勻，不愧是專業的。',
         date: '2026-08-23T11:20:00.000Z',
         verified: true
     },
