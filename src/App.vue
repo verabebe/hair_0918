@@ -132,10 +132,10 @@ export default {
 
 .dropdown-item:hover {
   background-color: #e7f1ff;
-  color: #0d6efd;
+  color: #d4af37;
 }
 
 .dropdown-item.router-link-active {
-  color: #0d6efd;
+  color: #d4af37;
 }
 </style>

@@ -130,7 +130,7 @@ export default {
 
 .category.red {
     color: black;
-    background-color: #C0C0C0;
+    background-color: #d4af37;
 }
 
 /* 評論摘要 */

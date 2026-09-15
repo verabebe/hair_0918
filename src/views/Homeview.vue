@@ -18,12 +18,12 @@ export default {
                 {
                     icon: 'material-symbols:content-cut',
                     title: '專業剪髮',
-                    desc: '由資深設計師量身打造，打造最適合您的造型風格'
+                    desc: '由資深設計師量身打造，剪出最適合您的造型風格'
                 },
                 {
                     icon: 'material-symbols:palette',
                     title: '時尚染髮',
-                    desc: '採用頂級染劑，為您創造獨特且亮眼的髮色'
+                    desc: '採用頂級無氨染劑，為您創造獨特且亮眼的髮色'
                 },
                 {
                     icon: 'mdi:hair-dryer-outline',

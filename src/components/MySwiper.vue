@@ -52,7 +52,7 @@ export default {
             slideShadows: true,
             shadowOffset: 20,
             shadowScale: 0.94,
-        }" style="background-color: #3b141c;">
+        }" style="background-color: #997A4D;">
             <SwiperSlide v-for="banner in banners" :key="banner.id">
                 <img :src="banner.image" class="w-100 d-block">
             </SwiperSlide>
