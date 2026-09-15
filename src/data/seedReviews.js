@@ -17,7 +17,7 @@ export const seedReviews = [
     {
         id: 1002,
         productId: 2,
-        username: '阿華',
+        username: '昀樺',
         age: 35,
         avatar: 'https://i.pravatar.cc/150?img=12',
         rating: 4,
@@ -53,7 +53,7 @@ export const seedReviews = [
     {
         id: 1005,
         productId: 4,
-        username: '雅婷',
+        username: '雅棠',
         age: 30,
         avatar: 'https://i.pravatar.cc/150?img=9',
         rating: 5,
@@ -77,7 +77,7 @@ export const seedReviews = [
     {
         id: 1007,
         productId: 5,
-        username: '小玲',
+        username: '許先生',
         age: 33,
         avatar: 'https://i.pravatar.cc/150?img=25',
         rating: 5,

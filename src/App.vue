@@ -47,7 +47,7 @@ export default {
           </RouterLink>
 
           <RouterLink :to="{ name: 'report-time' }">
-            SALES REPORT
+            ONLINE BOOKING
           
           </RouterLink>
 

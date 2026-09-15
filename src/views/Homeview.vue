@@ -89,7 +89,7 @@ export default {
         <section class="hero-section">
             <div class="section-content">
                 <div class="hero-details">
-                    <h2 class="title">K.Kai Hair Salon</h2>
+                    <h2 class="title">BEGIN YOUR EXPERIENCE</h2>
                     <h3 class="subtitle">Make your day great with our special hair treatment!</h3>
                     <p class="description">
                         Welcome to K.Kai Hair Academic London, where a fresh haircut gives you a big
