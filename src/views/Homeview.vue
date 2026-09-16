@@ -108,7 +108,7 @@ export default {
                     </div>
                 </div>
                 <div class="hero-image-wrapper">
-                    <img src="/images/11d59c6adf7c65bc42369b80bef60118.jpg" alt="Hair Salon" class="hero-image">
+                    <img src="/images/banner13.jpg" alt="Hair Salon" class="hero-image">
                 </div>
             </div>
         </section>

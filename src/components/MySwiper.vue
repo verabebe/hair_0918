@@ -20,15 +20,15 @@ export default {
             banners: [
                 {
                     id: 1,
-                    image: '/images/banner1.png'
+                    image: '/images/banner7.jpg'
                 },
                 {
                     id: 2,
-                    image: '/images/banner2.png'
+                    image: '/images/banner4.jpg'
                 },
                 {
                     id: 3,
-                    image: '/images/banner3.png'
+                    image: '/images/banner5.jpg'
                 }
             ],
 
