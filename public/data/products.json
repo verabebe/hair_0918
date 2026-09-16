@@ -1,73 +1,73 @@
 [
     {
         "id": 1,
-        "name": "洗髮",
-        "category": "服務",
-        "price": 200,
+        "name": "精油洗髮＋造型吹整",
+        "category": "服務價目",
+        "price": 250,
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVwJJ1MSPCqaRMhpBrVSbGPWDgvLuht-_fu3eQovw-ESSkD_57XP9_AMU&s=10",
         "description": "基本剪髮"
     },
     {
         "id": 2,
-        "name": "剪髮",
-        "category": "服務",
-        "price": 300,
+        "name": "專業剪髮",
+        "category": "服務價目",
+        "price": 500,
         "img": "/images/3f9a509c4d789d1565826aea66f30ee7.jpg",
         "description": "基本洗髮"
     },
     {
         "id": 3,
-        "name": "燙髮",
-        "category": "服務",
-        "price": 1800,
+        "name": "數碼燙髮/ 溫塑燙",
+        "category": "服務價目",
+        "price": 1290,
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR73sx7q6R-j_KqbTh-WY5XDaU7Lgdu-lwzpGB04Te88w&s=10",
         "description": "各種顏色都可以"
     },
     {
         "id": 4,
-        "name": "染髮",
-        "category": "服務",
-        "price": 1190,
+        "name": "時尚染髮",
+        "category": "服務價目",
+        "price": 2290,
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR73sx7q6R-j_KqbTh-WY5XDaU7Lgdu-lwzpGB04Te88w&s=10",
         "description": "提供多組 USB 與影像輸出介面，方便筆電擴充。"
     },
     {
         "id": 5,
         "name": "頭皮養護",
-        "category": "服務",
-        "price": 890,
+        "category": "服務價目",
+        "price": 870,
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrmNHuMx3wVDuL-CkWTb4BtG_eS_zPeOnq9xywAn9GzxWdwNxUrXJJlA8&s=10",
         "description": "適合文書、多工與程式開發使用的 27 吋顯示器。"
     },
     {
         "id": 6,
         "name": "小孩剪髮",
-        "category": "服務",
+        "category": "服務價目",
         "price": 150,
         "img": "https://i.pinimg.com/736x/f9/41/06/f941068766b45ca1062a311930f8b3cd.jpg",
         "description": "可調整觀看高度，改善桌面空間與使用姿勢。"
     },
     {
         "id": 7,
-        "name": "小孩剪髮",
-        "category": "服務",
-        "price": 150,
+        "name": "空間共享/ 座位出租",
+        "category": "髮廊分租",
+        "price": 18000,
         "img": "https://i.pinimg.com/736x/f9/41/06/f941068766b45ca1062a311930f8b3cd.jpg",
         "description": "可調整觀看高度，改善桌面空間與使用姿勢。"
     },
     {
         "id": 8,
         "name": "髮蠟",
-        "category": "商品",
-        "price": 300,
+        "category": "人氣商品",
+        "price": 280,
         "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQQwhVP4BdBMKod7CyQK1IyOYgSRY6DWXzNzKp6u2vgm65_JrOK4JNWsZ5Tr3Au5U0wG15PJ2WNLCAuxZctsKDWhIFI17UAXR2WlkDp8cQ",
         "description": "可調整觀看高度，改善桌面空間與使用姿勢。"
     },
     {
         "id": 9,
-        "name": "高課單潮流男士剪燙染課程",
+        "name": "高課單潮流剪燙染14日課程",
         "category": "學院課程",
-        "price": 45000,
+        "price": 42000,
         "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQQwhVP4BdBMKod7CyQK1IyOYgSRY6DWXzNzKp6u2vgm65_JrOK4JNWsZ5Tr3Au5U0wG15PJ2WNLCAuxZctsKDWhIFI17UAXR2WlkDp8cQ",
         "description": "髮蠟"
     }
