@@ -20,15 +20,15 @@ export default {
             banners: [
                 {
                     id: 1,
-                    image: '/images/banner7.jpg'
-                },
-                {
-                    id: 2,
                     image: '/images/banner4.jpg'
                 },
                 {
+                    id: 2,
+                    image: '/images/banner7.jpg'
+                },
+                {
                     id: 3,
-                    image: '/images/banner5.jpg'
+                    image: '/images/banner6.jpg'
                 }
             ],
 
@@ -53,9 +53,26 @@ export default {
             shadowOffset: 20,
             shadowScale: 0.94,
         }" style="background-color: #997A4D;">
-            <SwiperSlide v-for="banner in banners" :key="banner.id">
-                <img :src="banner.image" class="w-100 d-block">
+            <SwiperSlide 
+            v-for="banner in banners" 
+            :key="banner.id">
+                <img :src="banner.image" 
+                    class="banner-img w-100 d-block"
+                    :alt="`Banner ${banner.id}`">
             </SwiperSlide>
         </Swiper>
     </div>
 </template>
+
+<style scoped>
+.banner-img {
+    height: 90vh;
+    object-fit: cover;
+}    
+/* 手機版 */
+@media (max-width: 768px) {
+    .banner-img {
+        height: 40vh;
+    }
+}
+</style>
