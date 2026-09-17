@@ -28,7 +28,7 @@ export default {
                 {
                     icon: 'mdi:hair-dryer-outline',
                     title: '質感燙髮',
-                    desc: '日韓最新燙髮技術，呈現自然蓬鬆的完美捲度'
+                    desc: '日韓最新低溫數碼燙技術，呈現自然蓬鬆的完美捲度'
                 },
                 {
                     icon: 'material-symbols:spa',
