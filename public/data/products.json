@@ -3,49 +3,49 @@
         "id": 1,
         "name": "精油洗髮＋造型吹整",
         "category": "服務價目",
-        "price": 250,
+        "price": 288,
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVwJJ1MSPCqaRMhpBrVSbGPWDgvLuht-_fu3eQovw-ESSkD_57XP9_AMU&s=10",
-        "description": "基本剪髮"
+        "description": "結合芳香嗅覺放鬆、頭皮深層清潔與肩頸舒緩按摩的高CP值專業沙龍服務。"
     },
     {
         "id": 2,
         "name": "專業剪髮",
         "category": "服務價目",
-        "price": 500,
+        "price": 588,
         "img": "/images/3f9a509c4d789d1565826aea66f30ee7.jpg",
-        "description": "基本洗髮"
+        "description": "依照您的臉型、頭型、髮質、髮旋與日常整理習慣，量身打造專屬的最佳造型。"
     },
     {
         "id": 3,
         "name": "數碼燙髮/ 溫塑燙",
         "category": "服務價目",
-        "price": 1290,
+        "price": 2290,
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR73sx7q6R-j_KqbTh-WY5XDaU7Lgdu-lwzpGB04Te88w&s=10",
-        "description": "各種顏色都可以"
+        "description": "數碼燙（又稱數位燙、溫塑燙）以改良式40～70℃的中低度，讓捲度記憶在頭髮中，達到有效塑形同時又大幅降低對髮質的熱傷害。"
     },
     {
         "id": 4,
         "name": "時尚染髮",
         "category": "服務價目",
-        "price": 2290,
+        "price": 1290,
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR73sx7q6R-j_KqbTh-WY5XDaU7Lgdu-lwzpGB04Te88w&s=10",
-        "description": "提供多組 USB 與影像輸出介面，方便筆電擴充。"
+        "description": "提供經典日常或流行色調等多樣化的質感染髮與護色搭配服務，會依據您的膚色與喜好進行專業調色。"
     },
     {
         "id": 5,
         "name": "頭皮養護",
         "category": "服務價目",
-        "price": 870,
+        "price": 788,
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrmNHuMx3wVDuL-CkWTb4BtG_eS_zPeOnq9xywAn9GzxWdwNxUrXJJlA8&s=10",
-        "description": "適合文書、多工與程式開發使用的 27 吋顯示器。"
+        "description": "DAiFU 賦活與柔序護理：結合外泌體等深層淨化與修護技術，全面照顧頭皮與髮絲健康。HH純淨專家護理：針對頭皮屑、紅腫癢等困擾推出的專業純淨調理療程。"
     },
     {
         "id": 6,
         "name": "小孩剪髮",
         "category": "服務價目",
-        "price": 150,
+        "price": 188,
         "img": "https://i.pinimg.com/736x/f9/41/06/f941068766b45ca1062a311930f8b3cd.jpg",
-        "description": "可調整觀看高度，改善桌面空間與使用姿勢。"
+        "description": "為12歲以下的兒童提供專業剪髮造型與親子友善環境，透過設計師的耐心陪伴與量身剪裁，為您的寶貝打造日常好整理、有型又符合臉型的清爽髮型。"
     },
     {
         "id": 7,
