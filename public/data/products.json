@@ -49,27 +49,43 @@
     },
     {
         "id": 7,
-        "name": "空間共享/ 座位出租",
+        "name": "髮廊空間共享/ 座位出租",
         "category": "髮廊分租",
-        "price": 18000,
+        "price": 22000,
         "img": "https://i.pinimg.com/736x/f9/41/06/f941068766b45ca1062a311930f8b3cd.jpg",
-        "description": "可調整觀看高度，改善桌面空間與使用姿勢。"
+        "description": "質感沙龍美業共享空間：誠徵美業夥伴，如除毛、紋繡、輕美容等自由工作者加入我們，場地共享分租按月計費：NT$22000/月包含項目：水電費、網路、基本硬體設備（置物櫃、洗頭椅、美髮美容椅、鏡台）、垃圾處理清潔費。"
     },
     {
         "id": 8,
         "name": "髮蠟",
         "category": "人氣沙龍商品",
-        "price": 280,
+        "price": 380,
         "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQQwhVP4BdBMKod7CyQK1IyOYgSRY6DWXzNzKp6u2vgm65_JrOK4JNWsZ5Tr3Au5U0wG15PJ2WNLCAuxZctsKDWhIFI17UAXR2WlkDp8cQ",
-        "description": "可調整觀看高度，改善桌面空間與使用姿勢。"
+        "description": "主打霧面、不反光的自然質地，特別適合潮濕悶熱的氣候使用，戴安全帽也不會塌。能撐住一整天的造型。騎車後只要用手輕輕撥整幾下，就能立刻恢復髮型，完全不需要重新抓整。"
     },
     {
         "id": 9,
-        "name": "高課單14日潮流剪燙染課程",
+        "name": "高客單14日潮流剪燙課程",
         "category": "學院課程",
         "price": 42000,
         "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQQwhVP4BdBMKod7CyQK1IyOYgSRY6DWXzNzKp6u2vgm65_JrOK4JNWsZ5Tr3Au5U0wG15PJ2WNLCAuxZctsKDWhIFI17UAXR2WlkDp8cQ",
-        "description": "髮蠟"
+        "description": "男士消費週期短、回流率高，是高客單藍海。此課程包含男士剪裁結構：融合美式油頭、日韓系層次等主流風格，建立系統化的電剪與剪刀搭配邏輯。鎖定韓系氣墊燙、紋理燙、微捲蓋頭等熱門髮型，將單純剪髮（約NT$500-800元）升級為剪燙套餐（約NT$2000-3500元），並能快速複製給團隊操作。"
+    },
+    {
+        "id": 10,
+        "name": "高階14日創意設計染認證班",
+        "category": "學院課程",
+        "price": 42000,
+        "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQQwhVP4BdBMKod7CyQK1IyOYgSRY6DWXzNzKp6u2vgm65_JrOK4JNWsZ5Tr3Au5U0wG15PJ2WNLCAuxZctsKDWhIFI17UAXR2WlkDp8cQ",
+        "description": "染髮是拉高客單價最直接的武器，一般色與高階設計染價差可達數倍。設計師透過此課程學習高階特殊技術：專攻Airtouch（氣流微挑染）、Balayage（歐美手刷染）、以及線條細緻的高階挑染，提升色彩的立體感與高級感。商業色彩學與髮況拆解：從色彩判斷、精準去色到漂染後的售後服務（如補色洗髮精運用），教您看懂、拆解網路流行髮色，拉高提案成功率。"
+    },
+    {
+        "id": 11,
+        "name": "電子/ 實體禮物卡",
+        "category": "人氣沙龍商品",
+        "price": 800,
+        "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQQwhVP4BdBMKod7CyQK1IyOYgSRY6DWXzNzKp6u2vgm65_JrOK4JNWsZ5Tr3Au5U0wG15PJ2WNLCAuxZctsKDWhIFI17UAXR2WlkDp8cQ",
+        "description": "預購：NT$800元，即可享有 K.KAI HAIR ACADEMIC LONDON平假日皆可抵用NT$1000元消費金額。 歡迎選擇不同面額電子或實體禮物卡送給家人與社群好友。"
     }
     
 ]
