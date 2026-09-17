@@ -13,7 +13,7 @@ export default {
 
 <template>
   <div>
-    <header class="navbar" style="background-color: black;">
+    <header class="navbar" style="background-color: #f9f6f0;">
       <div class="navbar-inner">
         <strong class="nav-brand">
           <span><img src="/images/Barber_logo.png" alt="" style="width: 2em;"></span>
@@ -34,7 +34,7 @@ export default {
                 服務價目
               </RouterLink>
               <RouterLink :to="{ name: 'CategoryProductView', params: { category: '商品' } }" class="dropdown-item">
-                專業髮品
+                專業沙龍髮品
               </RouterLink>
               <RouterLink :to="{ name: 'CategoryProductView', params: { category: '學院課程' } }" class="dropdown-item">
                 學院課程
@@ -43,7 +43,7 @@ export default {
           </div>
 
           <RouterLink :to="{ name: 'about' }">
-            ABOUT
+            GALLERY
           </RouterLink>
 
           <RouterLink :to="{ name: 'report-time' }">
