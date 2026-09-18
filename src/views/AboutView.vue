@@ -117,7 +117,7 @@
             </div>
             <div class="box">
                 <div class="box_img">
-                    <img class="img" src="../../img/7.jpg" width="500" height="728" alt="這是圖片介紹">
+                    <img class="img" src="../../img/41.jpg" width="500" height="728" alt="這是圖片介紹">
                 </div>
             </div>
 
