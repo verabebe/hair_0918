@@ -34,7 +34,7 @@ export default {
                 服務價目
               </RouterLink>
               <RouterLink :to="{ name: 'CategoryProductView', params: { category: '商品' } }" class="dropdown-item">
-                專業沙龍髮品
+                商品
               </RouterLink>
               <RouterLink :to="{ name: 'CategoryProductView', params: { category: '學院課程' } }" class="dropdown-item">
                 學院課程
