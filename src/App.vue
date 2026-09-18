@@ -46,10 +46,10 @@ export default {
             GALLERY
           </RouterLink>
 
-          <RouterLink :to="{ name: 'report-time' }">
+          <!-- <RouterLink :to="{ name: 'report-time' }">
             BOOK ONLINE
           
-          </RouterLink>
+          </RouterLink> -->
 
           <RouterLink :to="{ name: 'cart' }">
             SHOPPING CART
